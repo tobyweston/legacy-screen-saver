@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+	- xscreensaver-style configuration file for build status screensaver.
+	-
+	- For details about the file format of this file, see the hacks/config/README
+	- file in the xscreensaver distribution, copied here for convenience:
+	- https://jdic.dev.java.net/documentation/incubator/screensaver/xscreensaver-config.txt
+-->
+<screensaver name="buildstatus" _label="BuildStatus">
+
+	<command arg="-root" />
+	<command arg="-jar buildstatus.jar" />
+	<command arg="-class com.touchclarity.buildstatus.ScreenSaver" />
+
+	<file id="jdkhome" _label="Java Home (blank=auto)" arg="-jdkhome %" />
+
+	<boolean id="singleScreen" _label="Single Screen" arg-set="-singleScreen" arg-unset="" />
+	<boolean id="dontDrawModuleNames" _label="Don't Display Module Names" arg-set="dontDrawModuleNames" arg-unset="" />
+	<number id="refresh" type="spinbutton" arg="-refresh %" _label="Refresh (s)" low="1" high="60" default="30" />
+	<file id="configFile" _label="alternative build configuration file" arg="-configFile %" />
+
+	<_description>Screen saver to display build and unit test status.</_description>
+
+</screensaver>

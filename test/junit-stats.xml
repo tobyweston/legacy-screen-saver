@@ -1,0 +1,522 @@
+<list>
+  <TestStatistics>
+    <errors>1</errors>
+    <failures>1</failures>
+    <tests>5977</tests>
+    <time>2723.8154</time>
+    <name>r21995</name>
+    <date>2007-11-01 10:36:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>0</failures>
+    <tests>5994</tests>
+    <time>2773.2354</time>
+    <name>r21997</name>
+    <date>2007-11-01 11:50:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>2</errors>
+    <failures>0</failures>
+    <tests>5995</tests>
+    <time>2732.162</time>
+    <name>r22001</name>
+    <date>2007-11-01 13:05:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>3</errors>
+    <failures>2</failures>
+    <tests>5992</tests>
+    <time>2551.2212</time>
+    <name>r22002</name>
+    <date>2007-11-01 14:19:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>2</errors>
+    <failures>0</failures>
+    <tests>5995</tests>
+    <time>2665.0168</time>
+    <name>r22003</name>
+    <date>2007-11-01 15:33:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>2</errors>
+    <failures>0</failures>
+    <tests>6004</tests>
+    <time>2679.9558</time>
+    <name>r22015</name>
+    <date>2007-11-01 16:44:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>2</errors>
+    <failures>0</failures>
+    <tests>6004</tests>
+    <time>2580.463</time>
+    <name>r22022</name>
+    <date>2007-11-01 17:57:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>2</errors>
+    <failures>0</failures>
+    <tests>6007</tests>
+    <time>2584.0864</time>
+    <name>r22025</name>
+    <date>2007-11-01 19:07:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>2</errors>
+    <failures>0</failures>
+    <tests>6007</tests>
+    <time>2705.373</time>
+    <name>r22026</name>
+    <date>2007-11-01 21:16:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>0</failures>
+    <tests>6007</tests>
+    <time>2670.9944</time>
+    <name>r22030</name>
+    <date>2007-11-02 11:33:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>0</failures>
+    <tests>6008</tests>
+    <time>2670.1177</time>
+    <name>r22035</name>
+    <date>2007-11-02 12:47:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>1</errors>
+    <failures>2</failures>
+    <tests>6009</tests>
+    <time>2727.3518</time>
+    <name>r22040</name>
+    <date>2007-11-02 14:04:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>3</failures>
+    <tests>6009</tests>
+    <time>2687.8552</time>
+    <name>r22042</name>
+    <date>2007-11-02 15:15:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>3</failures>
+    <tests>6009</tests>
+    <time>2805.4353</time>
+    <name>r22046</name>
+    <date>2007-11-02 16:32:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>4</failures>
+    <tests>6009</tests>
+    <time>2762.8433</time>
+    <name>r22050</name>
+    <date>2007-11-02 17:46:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>4</failures>
+    <tests>6010</tests>
+    <time>2646.965</time>
+    <name>r22055</name>
+    <date>2007-11-02 19:00:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>4</failures>
+    <tests>6010</tests>
+    <time>2697.1316</time>
+    <name>r22058</name>
+    <date>2007-11-02 20:12:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>4</failures>
+    <tests>6010</tests>
+    <time>2718.876</time>
+    <name>r22059</name>
+    <date>2007-11-03 14:42:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>1</errors>
+    <failures>4</failures>
+    <tests>5993</tests>
+    <time>2685.3994</time>
+    <name>r22060</name>
+    <date>2007-11-04 15:36:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>1</errors>
+    <failures>4</failures>
+    <tests>5993</tests>
+    <time>2626.245</time>
+    <name>r22061</name>
+    <date>2007-11-04 20:03:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>4</failures>
+    <tests>6010</tests>
+    <time>2748.5327</time>
+    <name>r22066</name>
+    <date>2007-11-04 21:18:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>5</failures>
+    <tests>6010</tests>
+    <time>2756.4888</time>
+    <name>r22067</name>
+    <date>2007-11-05 12:05:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>1</errors>
+    <failures>3</failures>
+    <tests>6001</tests>
+    <time>2686.0254</time>
+    <name>r22072</name>
+    <date>2007-11-05 13:22:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>4</failures>
+    <tests>6010</tests>
+    <time>2662.746</time>
+    <name>r22073</name>
+    <date>2007-11-05 14:37:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>4</failures>
+    <tests>6010</tests>
+    <time>2630.9917</time>
+    <name>r22075</name>
+    <date>2007-11-05 15:51:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>2</failures>
+    <tests>6012</tests>
+    <time>2711.6155</time>
+    <name>r22080</name>
+    <date>2007-11-05 17:07:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>3</failures>
+    <tests>6012</tests>
+    <time>2693.4128</time>
+    <name>r22087</name>
+    <date>2007-11-05 18:22:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>1</errors>
+    <failures>3</failures>
+    <tests>6012</tests>
+    <time>2668.1855</time>
+    <name>r22093</name>
+    <date>2007-11-05 19:37:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>1</errors>
+    <failures>3</failures>
+    <tests>6012</tests>
+    <time>2805.6887</time>
+    <name>r22094</name>
+    <date>2007-11-06 10:39:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>2</failures>
+    <tests>6014</tests>
+    <time>2832.0703</time>
+    <name>r22103</name>
+    <date>2007-11-06 11:57:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>1</failures>
+    <tests>6014</tests>
+    <time>2843.7031</time>
+    <name>r22110</name>
+    <date>2007-11-06 13:16:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>1</failures>
+    <tests>6014</tests>
+    <time>2533.921</time>
+    <name>r22112</name>
+    <date>2007-11-06 14:27:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>1</errors>
+    <failures>3</failures>
+    <tests>6009</tests>
+    <time>2790.4836</time>
+    <name>r22119</name>
+    <date>2007-11-06 15:49:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>1</errors>
+    <failures>2</failures>
+    <tests>6009</tests>
+    <time>2709.4617</time>
+    <name>r22125</name>
+    <date>2007-11-06 17:04:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>4</failures>
+    <tests>6009</tests>
+    <time>2785.749</time>
+    <name>r22132</name>
+    <date>2007-11-06 18:23:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>1</errors>
+    <failures>4</failures>
+    <tests>6009</tests>
+    <time>2680.8154</time>
+    <name>r22138</name>
+    <date>2007-11-06 19:38:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>1</errors>
+    <failures>3</failures>
+    <tests>6009</tests>
+    <time>2666.8677</time>
+    <name>r22139</name>
+    <date>2007-11-06 21:04:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>2</failures>
+    <tests>6009</tests>
+    <time>2744.0488</time>
+    <name>r22140</name>
+    <date>2007-11-07 10:53:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>0</failures>
+    <tests>6006</tests>
+    <time>2838.453</time>
+    <name>r22149</name>
+    <date>2007-11-07 12:10:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>0</failures>
+    <tests>6006</tests>
+    <time>2871.5823</time>
+    <name>r22152</name>
+    <date>2007-11-07 13:29:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>2</failures>
+    <tests>6006</tests>
+    <time>2728.7727</time>
+    <name>r22155</name>
+    <date>2007-11-07 14:46:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>3</failures>
+    <tests>6006</tests>
+    <time>2718.1309</time>
+    <name>r22158</name>
+    <date>2007-11-07 16:01:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>0</failures>
+    <tests>6006</tests>
+    <time>2901.797</time>
+    <name>r22160</name>
+    <date>2007-11-07 17:20:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>0</failures>
+    <tests>6008</tests>
+    <time>2965.1245</time>
+    <name>r22168</name>
+    <date>2007-11-07 18:41:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>15</errors>
+    <failures>1</failures>
+    <tests>6008</tests>
+    <time>2867.0476</time>
+    <name>r22169</name>
+    <date>2007-11-07 20:00:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>1</failures>
+    <tests>6008</tests>
+    <time>2896.8777</time>
+    <name>r22170</name>
+    <date>2007-11-07 22:03:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>1</failures>
+    <tests>6008</tests>
+    <time>2778.5498</time>
+    <name>r22171</name>
+    <date>2007-11-07 23:21:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>2</failures>
+    <tests>6008</tests>
+    <time>2900.5034</time>
+    <name>r22172</name>
+    <date>2007-11-08 10:55:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>1</errors>
+    <failures>0</failures>
+    <tests>5999</tests>
+    <time>2837.3357</time>
+    <name>r22177</name>
+    <date>2007-11-08 12:15:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>1</failures>
+    <tests>6010</tests>
+    <time>3117.2043</time>
+    <name>r22186</name>
+    <date>2007-11-08 13:39:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>9</errors>
+    <failures>3</failures>
+    <tests>5993</tests>
+    <time>2800.0146</time>
+    <name>r22187</name>
+    <date>2007-11-08 15:38:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>1</failures>
+    <tests>6010</tests>
+    <time>2753.7107</time>
+    <name>r22190</name>
+    <date>2007-11-08 16:55:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>0</failures>
+    <tests>6010</tests>
+    <time>3154.6077</time>
+    <name>r22192</name>
+    <date>2007-11-08 18:25:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>0</failures>
+    <tests>6010</tests>
+    <time>2893.9626</time>
+    <name>r22194</name>
+    <date>2007-11-08 19:44:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>1</failures>
+    <tests>6010</tests>
+    <time>2935.5027</time>
+    <name>r22195</name>
+    <date>2007-11-09 00:09:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>1</errors>
+    <failures>1</failures>
+    <tests>5993</tests>
+    <time>2993.552</time>
+    <name>r22196</name>
+    <date>2007-11-09 09:48:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>0</failures>
+    <tests>6010</tests>
+    <time>2886.3972</time>
+    <name>r22202</name>
+    <date>2007-11-09 11:06:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>1</failures>
+    <tests>6010</tests>
+    <time>2900.094</time>
+    <name>r22206</name>
+    <date>2007-11-09 12:27:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>0</failures>
+    <tests>6010</tests>
+    <time>2895.3845</time>
+    <name>r22239</name>
+    <date>2007-11-09 13:45:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>1</failures>
+    <tests>6004</tests>
+    <time>3052.1133</time>
+    <name>r22240</name>
+    <date>2007-11-09 16:03:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>0</failures>
+    <tests>0</tests>
+    <time>0.0</time>
+    <name>r22245</name>
+    <date>2007-11-12 10:43:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>1</failures>
+    <tests>6008</tests>
+    <time>2526.391</time>
+    <name>r22260</name>
+    <date>2007-11-12 10:44:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>1</failures>
+    <tests>6008</tests>
+    <time>2640.5598</time>
+    <name>r22261</name>
+    <date>2007-11-12 11:54:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>0</failures>
+    <tests>6010</tests>
+    <time>2622.1746</time>
+    <name>r22262</name>
+    <date>2007-11-12 13:24:00.0 GMT</date>
+  </TestStatistics>
+  <TestStatistics>
+    <errors>0</errors>
+    <failures>0</failures>
+    <tests>6010</tests>
+    <time>2513.2666</time>
+    <name>r22265</name>
+    <date>2007-11-12 14:32:00.0 GMT</date>
+  </TestStatistics>
+</list>

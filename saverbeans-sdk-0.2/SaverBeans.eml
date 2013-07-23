@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="jogl-natives-linux.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/saverbeans-sdk-0.2/lib/jogl/jogl-natives-linux.jar!/"/>
+	</lib>
+	<lib name="jogl-natives-solsparc.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/saverbeans-sdk-0.2/lib/jogl/jogl-natives-solsparc.jar!/"/>
+	</lib>
+	<lib name="jogl-natives-win32.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/saverbeans-sdk-0.2/lib/jogl/jogl-natives-win32.jar!/"/>
+	</lib>
+	<lib name="jogl.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/saverbeans-sdk-0.2/lib/jogl/jogl.jar!/"/>
+	</lib>
+	<lib name="saverbeans-ant.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/saverbeans-sdk-0.2/saverbeans-ant.jar!/"/>
+	</lib>
+	<lib name="saverbeans-api.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/saverbeans-sdk-0.2/saverbeans-api.jar!/"/>
+	</lib>
+</component>

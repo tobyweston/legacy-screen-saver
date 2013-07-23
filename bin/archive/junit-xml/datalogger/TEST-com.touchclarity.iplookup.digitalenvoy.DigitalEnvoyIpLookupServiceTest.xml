@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" name="com.touchclarity.iplookup.digitalenvoy.DigitalEnvoyIpLookupServiceTest" tests="5" time="1.0">
+  <properties>
+    <property name="unit.test.module.results.html.dir" value="../build/output/junit-html/datalogger"></property>
+    <property name="file.encoding.pkg" value="sun.io"></property>
+    <property name="env.PROMPT" value="$P$G"></property>
+    <property name="default.platform" value="32bit"></property>
+    <property name="ant.file.third.party.dependencies.listed.for.all.modules" value="C:\tcs_build\trunk\build\thirdparty.xml"></property>
+    <property name="unit.test.master.results.xml.dir" value="../build/output/junit-xml"></property>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.6.0_02\jre"></property>
+    <property name="unit.test.module.results.xml.dir" value="../build/output/junit-xml/datalogger"></property>
+    <property name="build.pages" value="C:\tcs_build\trunk\datalogger/docroot"></property>
+    <property name="wrapper.conf.java.exe.console" value="java"></property>
+    <property name="fit.tests" value=".*\.txt"></property>
+    <property name="ant.file.common-unit-test" value="C:\tcs_build\trunk\build\common-unit-test.xml"></property>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.6.0_02\jre\lib\endorsed"></property>
+    <property name="fit.root.dir" value="cat-tests"></property>
+    <property name="build.hour" value="10:23"></property>
+    <property name="wrapper.conf.java.exe.cms" value="java"></property>
+    <property name="env.USERNAME" value="test"></property>
+    <property name="junit.fork.mode" value="perTest"></property>
+    <property name="ant.file.common-release" value="C:\tcs_build\trunk\build\common-release.xml"></property>
+    <property name="ant.file.init" value="C:\tcs_build\trunk\build\init.xml"></property>
+    <property name="deploy.to" value="localhost"></property>
+    <property name="build.base" value="C:\tcs_build\trunk\datalogger"></property>
+    <property name="stop.on.functional.test.failures" value="false"></property>
+    <property name="sun.os.patch.level" value="Service Pack 2"></property>
+    <property name="java.vendor.url" value="http://java.sun.com/"></property>
+    <property name="env.COMPUTERNAME" value="DEV1"></property>
+    <property name="db.login" value="test"></property>
+    <property name="func.test.master.results.html.dir" value="../build/output/functional-html"></property>
+    <property name="run.unit.tests" value="true"></property>
+    <property name="java.version" value="1.6.0_02"></property>
+    <property name="db.metadata" value="dev1_metadata"></property>
+    <property name="build.summary.file" value="../build/output/build.summary"></property>
+    <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi"></property>
+    <property name="env.USERPROFILE" value="C:\Documents and Settings\test"></property>
+    <property name="wrapper.conf.java.exe.scorer" value="javascorer"></property>
+    <property name="ant.file.common.build.functionality" value="C:\tcs_build\trunk\build\common.xml"></property>
+    <property name="javadoc.dir" value="../build/output/api"></property>
+    <property name="func.test.module.results.html.dir" value="../build/output/functional-html/datalogger"></property>
+    <property name="env.SystemRoot" value="C:\WINDOWS"></property>
+    <property name="junit.results.prefix" value="junit.results"></property>
+    <property name="user.name" value="test"></property>
+    <property name="svn.server" value="fp/svn/randd"></property>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"></property>
+    <property name="sun.jnu.encoding" value="Cp1252"></property>
+    <property name="build.doc" value="C:\tcs_build\trunk\datalogger/doc"></property>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"></property>
+    <property name="build.password" value="Build3r"></property>
+    <property name="svn.password" value="Build3r"></property>
+    <property name="ant.file.common-functional-test" value="C:\tcs_build\trunk\build\common-functional-test.xml"></property>
+    <property name="java.specification.name" value="Java Platform API Specification"></property>
+    <property name="user.timezone" value=""></property>
+    <property name="wrapper.conf.java.exe.lookup" value="java"></property>
+    <property name="path.separator" value=";"></property>
+    <property name="env.PROCESSOR_IDENTIFIER" value="x86 Family 15 Model 2 Stepping 5, GenuineIntel"></property>
+    <property name="env._JAVACMD" value="C:\Program Files\Java\jdk1.6.0_02\bin\java.exe"></property>
+    <property name="deploy.conf" value="../build/output/dist/datalogger/localhost/conf"></property>
+    <property name="file.encoding" value="Cp1252"></property>
+    <property name="env.NUMBER_OF_PROCESSORS" value="4"></property>
+    <property name="env.APPDATA" value="C:\Documents and Settings\test\Application Data"></property>
+    <property name="ant.file" value="C:\tcs_build\trunk\datalogger\build.xml"></property>
+    <property name="build.src" value="C:\tcs_build\trunk\datalogger/src"></property>
+    <property name="java.io.tmpdir" value="C:\DOCUME~1\test\LOCALS~1\Temp\1\"></property>
+    <property name="TODAY" value="November 1 2007"></property>
+    <property name="user.language" value="en"></property>
+    <property name="xdoclet.temp" value="../build/output/xdoclettemp"></property>
+    <property name="wrapper.conf.java.exe.sync" value="java"></property>
+    <property name="env.USERNAME.lowercase" value="test"></property>
+    <property name="env.SystemDrive" value="C:"></property>
+    <property name="javax.net.ssl.trustStorePassword" value="123456"></property>
+    <property name="line.separator" value="
+"></property>
+    <property name="deploy.log" value="../build/output/dist/datalogger/localhost/log"></property>
+    <property name="env.ANT_OPTS" value="-Xmx800M"></property>
+    <property name="ant.file.Master build script" value="C:\tcs_build\trunk\build\build.xml"></property>
+    <property name="test.report.nothanks" value="true"></property>
+    <property name="db.server" value="DEV2"></property>
+    <property name="java.vm.info" value="mixed mode"></property>
+    <property name="sun.desktop" value="windows"></property>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"></property>
+    <property name="deploy.root" value="../build/output/dist/datalogger/localhost"></property>
+    <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH"></property>
+    <property name="host" value="DEV1"></property>
+    <property name="master.build.output" value="../build/output"></property>
+    <property name="build.time" value="1 November 2007 10:23"></property>
+    <property name="build.temp" value="C:\tcs_build\trunk\datalogger/temp"></property>
+    <property name="build.dist" value="../build/output/dist/datalogger"></property>
+    <property name="init.xml.available" value="true"></property>
+    <property name="env.LOGONSERVER" value="\\FP"></property>
+    <property name="suppress.maxmind.databases" value="true"></property>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"></property>
+    <property name="build.date" value="1-Nov-2007"></property>
+    <property name="release.number" value="7.0"></property>
+    <property name="build.test-support" value="../build/output/build/datalogger/test/support"></property>
+    <property name="ant.version" value="Apache Ant version 1.6.5 compiled on June 2 2005"></property>
+    <property name="env.USERDOMAIN" value="TOUCHCLARITY0"></property>
+    <property name="third.party.libraries" value="../resources/libraries"></property>
+    <property name="javax.net.ssl.trustStore" value="trust.keystore"></property>
+    <property name="env.PROCESSOR_LEVEL" value="15"></property>
+    <property name="svn.username" value="Test"></property>
+    <property name="env.windir" value="C:\WINDOWS"></property>
+    <property name="wrapper.conf.java.exe.httplookup" value="java"></property>
+    <property name="env.CLASSPATH" value=";..\resources\libraries\ant-plugins\ant-contrib-1.0b1.jar;..\resources\libraries\ant-plugins\tc-ant-tasks.jar;..\resources\libraries\ant-plugins\catalina-ant.jar;..\resources\libraries\ant-plugins\ccl.jar;..\resources\libraries\ant-plugins\clover.jar;..\resources\libraries\ant-plugins\cobertura.jar;..\resources\libraries\commons-lang-2.1.jar;..\resources\libraries\commons-logging-1.0.4.jar;..\resources\libraries\ant-plugins\findbugs-ant.jar;..\resources\libraries\ant-plugins\findbugs.jar;..\resources\libraries\ant-plugins\jakarta-regexp-1.3.jar;..\resources\libraries\ant-plugins\javancss.jar;..\resources\libraries\ant-plugins\js-touch-clarity.jar;..\resources\libraries\test\junit-3.8.1.jar;..\resources\libraries\log4j-1.2.7.jar;..\resources\libraries\mail-1.2.jar;..\resources\libraries\ant-plugins\nekohtml-0.7.4.jar;..\resources\libraries\ant-plugins\pmd-1.8.jar;..\resources\libraries\ant-plugins\quietXmlFormatter-0.1.jar;..\resources\libraries\serializer-2.7.0.jar;..\resources\libraries\ant-plugins\svnant.jar;..\resources\libraries\ant-plugins\svnClientAdapter.jar;..\resources\libraries\ant-plugins\svnjavahl.jar;..\resources\libraries\ant-plugins\Tidy.jar;..\resources\libraries\velocity-1.4.jar;..\resources\libraries\xalan-2.7.0.jar;..\resources\libraries\ant-plugins\xdoclet-1.2.3.jar;..\resources\libraries\ant-plugins\xdoclet-hibernate-module-1.2.3.jar;..\resources\libraries\ant-plugins\xdoclet-jmx-module-1.2.3.jar;..\resources\libraries\ant-plugins\xdoclet-mx4j-module-1.2.3.jar;..\resources\libraries\ant-plugins\xdoclet-xdoclet-module-1.2.3.jar;..\resources\libraries\ant-plugins\xjavadoc-1.5-snapshot050611.jar"></property>
+    <property name="os.name" value="Windows 2003"></property>
+    <property name="servicewrapper.conffile" value="wrapper.conf"></property>
+    <property name="java.specification.vendor" value="Sun Microsystems Inc."></property>
+    <property name="func.test.module.results.xml.dir" value="../build/output/functional-xml/datalogger"></property>
+    <property name="env.TMP" value="C:\DOCUME~1\test\LOCALS~1\Temp\1"></property>
+    <property name="java.vm.name" value="Java HotSpot(TM) Server VM"></property>
+    <property name="env.OS" value="Windows_NT"></property>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.6.0_02\jre\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\ruby-1.8.4\bin;C:\Program Files\Java\jdk1.6.0_02\bin;C:\Program Files\Subversion-1.3.0\bin;c:\ant\bin;C:\Program Files\Microsoft SQL Server\80\Tools\BINN"></property>
+    <property name="ant.java.version" value="1.5"></property>
+    <property name="findbugs.home" value="C:\tcs_build\trunk\build\tools\findbugs-1.2.1"></property>
+    <property name="run.unit.tests.true" value="true"></property>
+    <property name="basedir" value="C:\tcs_build\trunk\datalogger"></property>
+    <property name="java.class.version" value="50.0"></property>
+    <property name="build.username" value="Test"></property>
+    <property name="ant.home" value="C:\tcs_build\trunk\build\tools\ant"></property>
+    <property name="javadoc.temp" value="javadocTemp"></property>
+    <property name="test.failed" value="true"></property>
+    <property name="env.Path" value="C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\ruby-1.8.4\bin;C:\Program Files\Java\jdk1.6.0_02\bin;C:\Program Files\Subversion-1.3.0\bin;c:\ant\bin;C:\Program Files\Microsoft SQL Server\80\Tools\BINN"></property>
+    <property name="junit.timeout" value="120000"></property>
+    <property name="fit.browser" value="firefox"></property>
+    <property name="build.lib" value="../resources/libraries"></property>
+    <property name="log4j.configuration" value="log4j.test.properties"></property>
+    <property name="jvmargs" value="-server -Xss1m -Xmx800m -Duser.language=en -Duser.region=EN -Dfindbugs.home=C:\tcs_build\trunk\build\tools\findbugs-1.2.1"></property>
+    <property name="wrapper.conf.java.exe.builder" value="javabuilder"></property>
+    <property name="env.HOMEDRIVE" value="C:"></property>
+    <property name="func.test.master.results.xml.dir" value="../build/output/functional-xml"></property>
+    <property name="net.sourceforge.cobertura.datafile" value="C:\tcs_build\trunk\build\output\build\datalogger\test\cobertura.ser"></property>
+    <property name="ant.file.datalogger" value="C:\tcs_build\trunk\datalogger\build.xml"></property>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.6.0_02\jre\bin"></property>
+    <property name="env.PROCESSOR_REVISION" value="0205"></property>
+    <property name="sun.management.compiler" value="HotSpot Server Compiler"></property>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"></property>
+    <property name="user.variant" value=""></property>
+    <property name="build.mappings" value="C:\tcs_build\trunk\datalogger/mappings"></property>
+    <property name="depends.on" value="shared, dataextractor, cms, loggingdata, digitalenvoy"></property>
+    <property name="fit.host" value="DEV1"></property>
+    <property name="ant.project.name" value="datalogger"></property>
+    <property name="ant.file.shared-build" value="C:\tcs_build\trunk\build\shared.xml"></property>
+    <property name="java.vm.specification.version" value="1.0"></property>
+    <property name="resources.dir" value="../resources"></property>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"></property>
+    <property name="sun.cpu.isalist" value=""></property>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.6.0_02\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"></property>
+    <property name="test.timeout.functional" value="2400000"></property>
+    <property name="os.version" value="5.2"></property>
+    <property name="build.test-compile" value="../build/output/build/datalogger/test/compiled"></property>
+    <property name="user.home" value="C:\Documents and Settings\test"></property>
+    <property name="run.functional.tests" value="false"></property>
+    <property name="java.vm.vendor" value="Sun Microsystems Inc."></property>
+    <property name="build.scripts.dir" value="../build"></property>
+    <property name="perform.system.exits" value="false"></property>
+    <property name="env.USERDNSDOMAIN" value="TOUCHCLARITY.COM"></property>
+    <property name="stop.on.unit.test.failures" value="false"></property>
+    <property name="env.JAVA_HOME" value="C:\Program Files\Java\jdk1.6.0_02"></property>
+    <property name="env.__COMPAT_LAYER" value="DisableNXShowUI "></property>
+    <property name="user.dir" value="C:\tcs_build\trunk\build\output\junit-xml\datalogger"></property>
+    <property name="env.APR_ICONV_PATH" value="C:\Program Files\Subversion-1.3.0\iconv"></property>
+    <property name="wrapper.conf.java.exe.httpconsole" value="java"></property>
+    <property name="env.FP_NO_HOST_CHECK" value="NO"></property>
+    <property name="master.build.config" value="../build/config"></property>
+    <property name="env._USE_CLASSPATH" value="yes"></property>
+    <property name="sun.cpu.endian" value="little"></property>
+    <property name="servicewrapper.httpconffile" value="httpwrapper.conf"></property>
+    <property name="env.ALLUSERSPROFILE" value="C:\Documents and Settings\All Users"></property>
+    <property name="wrapper.conf.java.exe.logger" value="javalogger"></property>
+    <property name="wrapper.conf.java.exe.filecharger" value="java"></property>
+    <property name="branch" value="trunk"></property>
+    <property name="build.deploy" value="C:\tcs_build\trunk\datalogger/deploy"></property>
+    <property name="env.PROCESSOR_ARCHITECTURE" value="x86"></property>
+    <property name="java.vm.version" value="1.6.0_02-b05"></property>
+    <property name="env.HOMEPATH" value="\Documents and Settings\test"></property>
+    <property name="java.class.path" value="C:\tcs_build\trunk\resources\libraries\reggie-dl.jar;C:\tcs_build\trunk\resources\libraries\test\easymock-2.0.jar;C:\tcs_build\trunk\resources\libraries\test\easymockclassextension.jar;C:\tcs_build\trunk\resources\libraries\test\junit-3.8.1.jar;C:\tcs_build\trunk\resources\libraries\test\junitperf-1.9.1.jar;C:\tcs_build\trunk\resources\libraries\test\spring-mock-2.0.6.jar;C:\tcs_build\trunk\resources\libraries\xmlunit1.0.jar;C:\tcs_build\trunk\build\output\build\datalogger\test\cms-tests.jar;C:\tcs_build\trunk\build\output\build\datalogger\test\dataextractor-tests.jar;C:\tcs_build\trunk\build\output\build\datalogger\test\datalogger-tests.jar;C:\tcs_build\trunk\build\output\build\datalogger\test\digitalenvoy-tests.jar;C:\tcs_build\trunk\build\output\build\datalogger\test\loggingdata-tests.jar;C:\tcs_build\trunk\build\output\build\datalogger\test\shared-tests.jar;C:\tcs_build\trunk\datalogger;C:\tcs_build\trunk\resources\libraries\JSQLConnect.jar;C:\tcs_build\trunk\resources\libraries\colt.jar;C:\tcs_build\trunk\resources\libraries\concurrent.jar;C:\tcs_build\trunk\resources\libraries\jdom-1.0-jaxen-core.jar;C:\tcs_build\trunk\resources\libraries\jdom-1.0-jaxen-jdom.jar;C:\tcs_build\trunk\resources\libraries\jdom-1.0-saxpath.jar;C:\tcs_build\trunk\resources\libraries\jdom-1.0.jar;C:\tcs_build\trunk\resources\libraries\jini-core.jar;C:\tcs_build\trunk\resources\libraries\jini-ext.jar;C:\tcs_build\trunk\resources\libraries\log4j-1.2.7.jar;C:\tcs_build\trunk\resources\libraries\mail-1.2.jar;C:\tcs_build\trunk\resources\libraries\mx4j.jar;C:\tcs_build\trunk\resources\libraries\reggie.jar;C:\tcs_build\trunk\resources\libraries\saxon8-dom.jar;C:\tcs_build\trunk\resources\libraries\saxon8.jar;C:\tcs_build\trunk\resources\libraries\servlet-api.jar;C:\tcs_build\trunk\resources\libraries\snowball-2.0.0.jar;C:\tcs_build\trunk\resources\libraries\spring-2.0.6.jar;C:\tcs_build\trunk\resources\libraries\sun-util.jar;C:\tcs_build\trunk\resources\libraries\wrapper.jar;C:\tcs_build\trunk\resources\libraries\xstream-1.2.2.jar;C:\tcs_build\trunk\resources\libraries\activation.jar;C:\tcs_build\trunk\resources\libraries\acegi-security-1.0.0.jar;C:\tcs_build\trunk\resources\libraries\antlr-2.7.5H3.jar;C:\tcs_build\trunk\resources\libraries\asm-1.5.3.jar;C:\tcs_build\trunk\resources\libraries\bsh-2.0b4.jar;C:\tcs_build\trunk\resources\libraries\cglib-2.1.jar;C:\tcs_build\trunk\resources\libraries\commons-codec-1.3.jar;C:\tcs_build\trunk\resources\libraries\commons-collections-3.1.jar;C:\tcs_build\trunk\resources\libraries\commons-logging-1.0.4.jar;C:\tcs_build\trunk\resources\libraries\commons-pool-1.3.jar;C:\tcs_build\trunk\resources\libraries\dom4j-1.6.1.jar;C:\tcs_build\trunk\resources\libraries\hibernate3.jar;C:\tcs_build\trunk\resources\libraries\jdbc2_0-stdext.jar;C:\tcs_build\trunk\resources\libraries\jgroups.jar;C:\tcs_build\trunk\resources\libraries\jini-tools.jar;C:\tcs_build\trunk\resources\libraries\jta.jar;C:\tcs_build\trunk\resources\libraries\mx4j-impl.jar;C:\tcs_build\trunk\resources\libraries\mx4j-jmx.jar;C:\tcs_build\trunk\resources\libraries\mx4j-remote.jar;C:\tcs_build\trunk\resources\libraries\mx4j-tools.jar;C:\tcs_build\trunk\resources\libraries\serializer-2.7.0.jar;C:\tcs_build\trunk\resources\libraries\servlet.jar;C:\tcs_build\trunk\resources\libraries\velocity-1.4.jar;C:\tcs_build\trunk\resources\libraries\xalan-2.7.0.jar;C:\tcs_build\trunk\resources\libraries\xercesImpl.jar;C:\tcs_build\trunk\resources\libraries\xml-apis.jar;C:\tcs_build\trunk\resources\libraries\commons-lang-2.1.jar;C:\tcs_build\trunk\resources\libraries\maxmindgeoip-1.1.8.jar;C:\tcs_build\trunk\resources\libraries\tools.jar;C:\tcs_build\trunk\datalogger\lib\cms.jar;C:\tcs_build\trunk\datalogger\lib\dataextractor.jar;C:\tcs_build\trunk\datalogger\lib\digitalenvoy.jar;C:\tcs_build\trunk\datalogger\lib\loggingdata.jar;C:\tcs_build\trunk\datalogger\lib\shared.jar;C:\tcs_build\trunk\datalogger\lib\snmpserver.jar;C:\tcs_build\trunk\build\output\dist\datalogger\datalogger.jar;C:\tcs_build\trunk\build\output\build\datalogger\test\compiled;C:\tcs_build\trunk\resources\libraries\ant-plugins\ant-contrib-1.0b1.jar;C:\tcs_build\trunk\resources\libraries\ant-plugins\tc-ant-tasks.jar;C:\tcs_build\trunk\resources\libraries\ant-plugins\catalina-ant.jar;C:\tcs_build\trunk\resources\libraries\ant-plugins\ccl.jar;C:\tcs_build\trunk\resources\libraries\ant-plugins\clover.jar;C:\tcs_build\trunk\resources\libraries\ant-plugins\cobertura.jar;C:\tcs_build\trunk\resources\libraries\ant-plugins\jakarta-regexp-1.3.jar;C:\tcs_build\trunk\resources\libraries\ant-plugins\javancss.jar;C:\tcs_build\trunk\resources\libraries\ant-plugins\js-touch-clarity.jar;C:\tcs_build\trunk\resources\libraries\ant-plugins\nekohtml-0.7.4.jar;C:\tcs_build\trunk\resources\libraries\ant-plugins\pmd-1.8.jar;C:\tcs_build\trunk\resources\libraries\ant-plugins\quietXmlFormatter-0.1.jar;C:\tcs_build\trunk\resources\libraries\ant-plugins\svnant.jar;C:\tcs_build\trunk\resources\libraries\ant-plugins\svnClientAdapter.jar;C:\tcs_build\trunk\resources\libraries\ant-plugins\svnjavahl.jar;C:\tcs_build\trunk\resources\libraries\ant-plugins\Tidy.jar;C:\tcs_build\trunk\resources\libraries\ant-plugins\xdoclet-1.2.3.jar;C:\tcs_build\trunk\resources\libraries\ant-plugins\xdoclet-hibernate-module-1.2.3.jar;C:\tcs_build\trunk\resources\libraries\ant-plugins\xdoclet-jmx-module-1.2.3.jar;C:\tcs_build\trunk\resources\libraries\ant-plugins\xdoclet-mx4j-module-1.2.3.jar;C:\tcs_build\trunk\resources\libraries\ant-plugins\xdoclet-xdoclet-module-1.2.3.jar;C:\tcs_build\trunk\resources\libraries\ant-plugins\xjavadoc-1.5-snapshot050611.jar;C:\tcs_build\trunk\build\tools\ant\lib\ant-launcher.jar;C:\tcs_build\trunk\build\tools\ant\lib\ant.jar;C:\tcs_build\trunk\build\tools\ant\lib\ant-junit.jar"></property>
+    <property name="DSTAMP" value="20071101"></property>
+    <property name="ant.library.dir" value="C:\tcs_build\trunk\build\tools\ant\lib"></property>
+    <property name="modules" value="tools,shared,dataextractor,cms,warehouse,digitalenvoy,web,cat,loggingdata,filecharger,modeller,datalogger,loggerscorer,extranet,console,simulateddata,lookup,mole,acceptancetests,reasonforserve,requestplayer,databases,functionaltests,offlinedataimporter"></property>
+    <property name="os.arch" value="x86"></property>
+    <property name="env.SESSIONNAME" value="RDP-Tcp#1"></property>
+    <property name="sun.java.launcher" value="SUN_STANDARD"></property>
+    <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files"></property>
+    <property name="built.on" value="DEV1"></property>
+    <property name="findbugs.output" value="C:\tcs_build\trunk\datalogger\doc\findbugs"></property>
+    <property name="build.functional" value="C:\tcs_build\trunk\datalogger/functional"></property>
+    <property name="databases.dir" value="../databases"></property>
+    <property name="env.ProgramFiles" value="C:\Program Files"></property>
+    <property name="module" value="datalogger"></property>
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc."></property>
+    <property name="TSTAMP" value="1023"></property>
+    <property name="build.unittest" value="C:\tcs_build\trunk\datalogger/unittest"></property>
+    <property name="deploy.bin" value="../build/output/dist/datalogger/localhost/bin"></property>
+    <property name="file.separator" value="\"></property>
+    <property name="build.target" value="../build/output/build/datalogger"></property>
+    <property name="func.test.master.big.report.dir" value="../build/output/big-functional-test-report"></property>
+    <property name="java.runtime.version" value="1.6.0_02-b05"></property>
+    <property name="env.ANT_CMD_LINE_ARGS" value="-Dpublish.test.to.wiki true cruise.build"></property>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.6.0_02\jre\lib\resources.jar;C:\Program Files\Java\jdk1.6.0_02\jre\lib\rt.jar;C:\Program Files\Java\jdk1.6.0_02\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.6.0_02\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.6.0_02\jre\lib\jce.jar;C:\Program Files\Java\jdk1.6.0_02\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.6.0_02\jre\classes"></property>
+    <property name="publish.dir" value="../build/output/summary"></property>
+    <property name="env.ComSpec" value="C:\WINDOWS\system32\cmd.exe"></property>
+    <property name="third.party.binaries" value="../resources/bin"></property>
+    <property name="build.config" value="C:\tcs_build\trunk\datalogger/config"></property>
+    <property name="db.prefix" value="dev1"></property>
+    <property name="db.password" value="builder"></property>
+    <property name="ant.file.common-doc" value="C:\tcs_build\trunk\build\common-doc.xml"></property>
+    <property name="java.security.policy" value="C:\tcs_build\trunk\datalogger/config/datalogger.policy"></property>
+    <property name="build.test" value="../build/output/build/datalogger/test"></property>
+    <property name="publish.test.to.wiki" value="true"></property>
+    <property name="env.TEMP" value="C:\DOCUME~1\test\LOCALS~1\Temp\1"></property>
+    <property name="user.country" value="GB"></property>
+    <property name="env.ANT_HOME" value="C:\tcs_build\trunk\build\tools\ant"></property>
+    <property name="env.ClusterLog" value="C:\WINDOWS\Cluster\cluster.log"></property>
+    <property name="env.CLIENTNAME" value="CHRISS"></property>
+    <property name="build.compile" value="../build/output/build/datalogger/compiled"></property>
+    <property name="unit.test.master.results.html.dir" value="../build/output/junit-html"></property>
+    <property name="java.vendor" value="Sun Microsystems Inc."></property>
+    <property name="servicewrapper.dllfile" value="wrapper.dll"></property>
+    <property name="devtest.dir" value="../build/output/devtest"></property>
+    <property name="servicewrapper.exefile" value="wrapper.exe"></property>
+    <property name="root.dir" value=".."></property>
+    <property name="env.CATALINA_HOME" value="c:\tomcat-5.5.12"></property>
+    <property name="java.specification.version" value="1.6"></property>
+    <property name="sun.arch.data.model" value="32"></property>
+  </properties>
+  <testcase classname="com.touchclarity.iplookup.digitalenvoy.DigitalEnvoyIpLookupServiceTest" name="testLookups" time="0.453"></testcase>
+  <testcase classname="com.touchclarity.iplookup.digitalenvoy.DigitalEnvoyIpLookupServiceTest" name="testNoLookupValue" time="0.031"></testcase>
+  <testcase classname="com.touchclarity.iplookup.digitalenvoy.DigitalEnvoyIpLookupServiceTest" name="testTwoSiteIdsWork" time="0.015"></testcase>
+  <testcase classname="com.touchclarity.iplookup.digitalenvoy.DigitalEnvoyIpLookupServiceTest" name="testFileNotFoundBehaviour" time="0.016"></testcase>
+  <testcase classname="com.touchclarity.iplookup.digitalenvoy.DigitalEnvoyIpLookupServiceTest" name="testGetJMXIPLookup" time="0.016"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[ERROR - The file C:\tcs_build\trunk\build\output\junit-xml\datalogger\resources\digitalenvoy\FAT-CHANCE.dat could not be found.
+WARN - Couldn't find the digital envoy data file at C:\tcs_build\trunk\build\output\junit-xml\datalogger\resources\digitalenvoy\FAT-CHANCE.dat
+]]></system-err>
+</testsuite>

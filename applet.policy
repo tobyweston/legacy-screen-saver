@@ -1,0 +1,37 @@
+/* Add this via -J-Djava.security.policy=applet.policy or copy into */
+/* your user home folder as .java.policy */
+
+grant {
+  permission java.io.FilePermission "<<ALL FILES>>", "read, write, execute";
+};
+
+grant {
+  permission java.lang.RuntimePermission "accessDeclaredMembers";
+};
+
+grant {
+  permission java.lang.RuntimePermission "createClassLoader";
+};
+
+grant {
+  permission java.lang.reflect.ReflectPermission "suppressAccessChecks";
+};
+
+grant {
+  permission java.net.SocketPermission "dev1:80", "connect, resolve";
+};
+
+grant {
+  permission java.net.SocketPermission "dev1:85", "connect, resolve";
+};
+
+grant {
+  permission java.net.SocketPermission "build2:80", "connect, resolve";
+  permission java.net.SocketPermission "build2:85", "connect, resolve";
+  permission java.net.SocketPermission "tobyw:80", "connect, resolve";
+};
+
+grant {
+  permission java.io.FilePermission "\\\\dev4\\c$\\screensaver\\builds.xml", "read";
+};
+

@@ -1,0 +1,24 @@
+<!-- Build results screen saver config. Should be located in \\dev-alfredo\c$\ScrenSaver\builds.xml -->
+<builds>
+	<build>
+		<name>trunk/unit tests</name>
+		<url>http://dev1/tcs/trunk/build/output/build.summary</url>
+	</build>
+	<build>
+		<name>trunk/functional</name>
+		<url>http://dev1:85/tcs/trunk/build/output/build.summary</url>
+	</build>
+	<build>
+		<name>branch/unit tests</name>
+		<url>http://build2/tcs/v7.2.x/build/output/build.summary</url>
+	</build>
+	<build>
+		<name>branch/functional</name>
+		<url>http://build2:85/tcs/v7.2.x/build/output/build.summary</url>
+	</build>
+	<test-statistics>
+		<name>Statistics</name>
+		<url>http://tobyw/screensaver/statistics/junit-stats.xml</url>
+	</test-statistics>
+</builds>
+		

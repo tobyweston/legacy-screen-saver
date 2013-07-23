@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/saverbeans-sdk-0.2/SaverBeans.iml" filepath="$PROJECT_DIR$/saverbeans-sdk-0.2/SaverBeans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScreenSaver.iml" filepath="$PROJECT_DIR$/ScreenSaver.iml" />
+    </modules>
+  </component>
+</project>
+

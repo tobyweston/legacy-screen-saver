@@ -1,0 +1,59 @@
+#Thu Nov 08 14:54:16 GMT 2007
+
+# partial file, whilst its building not all values will be set. for example, extranet is missing 
+# at the point in time when this file was generated.
+
+cat.test.compile=success
+branch=branches/v7.0.x
+loggingdata.test.compile.time=2\:53 PM
+modeller.compile=inprogress
+filecharger.test.compile.time=2\:54 PM
+dataextractor.compile=success
+warehouse.test.compile=success
+dataextractor.compile.time=2\:50 PM
+tools.compile.time=2\:48 PM
+loggingdata.compile.time=2\:53 PM
+filecharger.compile=success
+shared.compile=success
+filecharger.test.compile=success
+loggingdata.compile=success
+run.unit.tests=false
+digitalenvoy.test.compile=success
+build.start.time=8-Nov-07 2\:48 PM
+subversion.revision=22187
+cat.compile.time=2\:53 PM
+tools.test.compile.time=2\:48 PM
+modeller.test.compile=inprogress
+release.number=7.0
+warehouse.compile.time=2\:51 PM
+dataextractor.test.compile.time=2\:50 PM
+deploy.to=localhost
+cat.test.compile.time=2\:53 PM
+modeller.test.compile.time=in progress...
+filecharger.compile.time=2\:54 PM
+built.on=BUILD2
+web.compile=success
+digitalenvoy.compile.time=2\:51 PM
+modules=tools,shared,dataextractor,cms,warehouse,digitalenvoy,web,cat,loggingdata,filecharger,modeller,datalogger,loggerscorer,extranet,console,simulateddata,lookup,mole,acceptancetests,reasonforserve,requestplayer,databases,functionaltests,offlinedataimporter
+web.test.compile=success
+cms.test.compile.time=2\:51 PM
+shared.test.compile=success
+cat.compile=success
+cms.test.compile=success
+web.test.compile.time=2\:52 PM
+run.functional.tests=true
+modeller.compile.time=in progress...
+cms.compile=success
+tools.compile=success
+dataextractor.test.compile=success
+web.compile.time=2\:52 PM
+loggingdata.test.compile=success
+tools.test.compile=success
+shared.compile.time=2\:49 PM
+shared.test.compile.time=2\:49 PM
+digitalenvoy.compile=success
+warehouse.compile=success
+warehouse.test.compile.time=2\:51 PM
+cms.compile.time=2\:51 PM
+digitalenvoy.test.compile.time=2\:51 PM
+

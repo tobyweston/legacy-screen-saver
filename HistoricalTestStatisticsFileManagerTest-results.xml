@@ -1,0 +1,18 @@
+<list>
+  <com.touchclarity.buildstatus.TestStatistics>
+    <errors>1</errors>
+    <failures>2</failures>
+    <tests>44</tests>
+    <time>13.076</time>
+    <name>r10001</name>
+    <date>2007-11-01 10:35:00.0 GMT</date>
+  </com.touchclarity.buildstatus.TestStatistics>
+  <com.touchclarity.buildstatus.TestStatistics>
+    <errors>1</errors>
+    <failures>2</failures>
+    <tests>44</tests>
+    <time>13.076</time>
+    <name>r10002</name>
+    <date>2007-11-01 10:35:00.0 GMT</date>
+  </com.touchclarity.buildstatus.TestStatistics>
+</list>
